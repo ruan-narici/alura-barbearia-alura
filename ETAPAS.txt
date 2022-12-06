@@ -1,0 +1,12 @@
+1) Crie o arquivo index.html.
+
+2) Copie o conteúdo do texto base, que você baixou no início desta aula, para dentro do arquivo index.html.
+
+3) Marque o título do texto e os seus parágrafos, usando as tags HTML próprias para isso:
+
+4) Defina a estrutura básica do HTML index.html, não esquecendo de definir a linguagem da página:
+
+5) Passe as informações de renderização da página para o navegador e defina o seu título:
+
+6) Por fim, separe as informações e conteúdo da página:
+
