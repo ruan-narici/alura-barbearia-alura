@@ -28,3 +28,14 @@
 
 15) Ainda no arquivo style.css, altere a largura da imagem:
 
+16)Na página index.html, envolva o texto em uma div:
+
+17) E abaixo da div principal, crie a div beneficios, com a lista de benefícios e a sua imagem:
+
+18) No CSS style.css, remova a estilização da cor de fundo do body e passe-a para a div principal. Além disso, dê um espaçamento interno para ela:
+
+19) Mude a fonte dos itens da lista para itálico, estilize a cor de fundo da div beneficios e alinhe o texto do h2 ao centro:
+
+20) Na lista, modifique o seu display para inline-block e faça ela ser alinhada pela linha de cima. Além disso, altere a sua largura para ser 20% da página e sua margem externa à direita para ser de 15%:
+
+21) Por fim, altere a largura da imagem dos benefícios:
