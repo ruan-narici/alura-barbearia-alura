@@ -18,3 +18,13 @@
 
 10) E altere o tamanho da fonte do segundo parágrafo:
 
+11) Remova todo o CSS inline da página index.html.
+
+12) Como primeiro item do body, adicione a imagem banner.jpg. Adicione também um identificador para a tag img:
+
+13) Adicione um identificador para o segundo parágrafo do texto:
+
+14) No arquivo style.css, adicione o CSS que foi removido da página index.html, ou seja, alinhe o h1 e os parágrafos no centro da página e aumente a fonte do segundo parágrafo (use o seu identificador para referenciá-lo):
+
+15) Ainda no arquivo style.css, altere a largura da imagem:
+
