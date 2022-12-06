@@ -10,3 +10,11 @@
 
 6) Por fim, separe as informações e conteúdo da página:
 
+7) Na mesma pasta da página index.html, crie o arquivo CSS style.css. Neste arquivo, modifique a cor de fundo do body, centralize os parágrafos e altere a cor das tags strong que estão dentro de tags em:
+
+8) Na página index.html, como último elemento do head, importe o CSS style.css:
+
+9) Centralize o texto do h1:
+
+10) E altere o tamanho da fonte do segundo parágrafo:
+
