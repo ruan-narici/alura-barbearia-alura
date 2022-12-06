@@ -1,23 +1,24 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
 .principal {
     background: #CCCCCC;
     padding: 20px;
+    text-align: center;
 }
 
 #banner {
     width: 100%;
 }
 
-h1 {
-    font-size: 40px;
-}
-
-h1, p {
+.titulo-centralizado {
     text-align: center;
-
+    font-size: 30px;
 }
 
 #missao {
-    font-size: 30px;
+    font-size: 22px;
 }
 
 p em strong {
@@ -26,10 +27,6 @@ p em strong {
 
 .beneficios {
     background: #FFFFFF;
-}
-
-.beneficios h2 {
-    text-align: center;
 }
 
 .beneficios ul {

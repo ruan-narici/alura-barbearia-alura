@@ -39,3 +39,11 @@
 20) Na lista, modifique o seu display para inline-block e faça ela ser alinhada pela linha de cima. Além disso, altere a sua largura para ser 20% da página e sua margem externa à direita para ser de 15%:
 
 21) Por fim, altere a largura da imagem dos benefícios:
+
+22) Crie o cabeçalho da página index.html:
+
+23) Altere a tag do título Sobre a Barbearia Alura para <h2> e a tag do título Benefícios para <h3>. Além disso, dê uma mesma classe para os dois:
+
+24) No arquivo style.css, dê um espaçamento interno à esquerda para o cabeçalho, de 20px:
+
+25) E por fim, remova os estilos das tags h1 e h2 e centralize-os em um único lugar, através da classe titulo-centralizado:
