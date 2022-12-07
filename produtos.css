@@ -2,6 +2,19 @@ header {
     background: #BBBBBB;
 }
 
+.cx-header {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav {
+    position: absolute;
+    top: 45%;
+    right: 0;
+}
+
 nav li {
     display: inline;
     margin-left: 15px;

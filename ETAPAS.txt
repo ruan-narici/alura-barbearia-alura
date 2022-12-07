@@ -56,3 +56,12 @@
 
 29) No arquivo produtos.css, adicione os estilos para a página produtos.html:
 
+30) Extraia o ZIP e mova o reset.css para dentro da pasta do seu projeto.
+
+31) Na página produtos.html, importe o reset.css, antes de importar produtos.css:
+
+32) E envolva o logo e o menu em uma div:
+
+33) No arquivo produtos.css, no header, adicione um padding para cima e para baixo:
+
+34) Por fim, posicione o cabeçalho, alterando a div caixa e o nav:
