@@ -47,3 +47,7 @@
 24) No arquivo style.css, dê um espaçamento interno à esquerda para o cabeçalho, de 20px:
 
 25) E por fim, remova os estilos das tags h1 e h2 e centralize-os em um único lugar, através da classe titulo-centralizado:
+
+26) Na pasta do seu projeto, crie o arquivo produtos.css.
+
+27) Na mesma pasta, crie a página produtos.html;
