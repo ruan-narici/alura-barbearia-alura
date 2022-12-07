@@ -70,4 +70,4 @@
 
 36) No arquivo produtos.css, estilize o conteúdo principal da página produtos.html e seus elementos:
 
-37) 
+37) No arquivo produtos.css, adicione uma borda aos itens da lista de produtos:
