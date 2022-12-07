@@ -65,3 +65,9 @@
 33) No arquivo produtos.css, no header, adicione um padding para cima e para baixo:
 
 34) Por fim, posicione o cabeçalho, alterando a div caixa e o nav:
+
+35) Na página produtos.html, abaixo do cabeçalho (header), adicione o conteúdo principal da página, com a lista de produtos:
+
+36) No arquivo produtos.css, estilize o conteúdo principal da página produtos.html e seus elementos:
+
+37) 
