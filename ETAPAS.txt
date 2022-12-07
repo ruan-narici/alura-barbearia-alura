@@ -51,3 +51,8 @@
 26) Na pasta do seu projeto, crie o arquivo produtos.css.
 
 27) Na mesma pasta, crie a página produtos.html;
+
+28) Na página produtos.html, adicione a estrutura de navegação na lista e adicione âncoras em cada item dela, para criar links para as outras páginas do projeto:
+
+29) No arquivo produtos.css, adicione os estilos para a página produtos.html:
+
