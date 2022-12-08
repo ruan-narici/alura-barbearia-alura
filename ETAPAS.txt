@@ -79,3 +79,8 @@
 40) Quando algum item da lista de produtos estiver sendo ativado pelo usuário, modifique a cor da sua borda: #088C19;  
 
 41) Por fim, quando o usuário passar o cursor sobre algum item da lista de produtos, modifique o tamanho do texto do seu h2:
+
+42) Na página produtos.html, abaixo do conteúdo principal (main), adicione o rodapé da página:
+
+43) No arquivo produtos.css, estilize o rodapé da página produtos.html e seus elementos:
+
