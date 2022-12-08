@@ -1,5 +1,36 @@
-.titulo-principal {
-    padding-left: 20px;
+header {
+    background: #BBBBBB;
+}
+
+.cx-header {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav {
+    position: absolute;
+    top: 45%;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin-left: 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    color: #000000;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
 }
 
 .principal {
@@ -39,4 +70,16 @@ p em strong {
 
 .img-beneficios {
     width: 50%;
+}
+
+.rodape {
+    text-align: center;
+    background: url("./img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
 }
