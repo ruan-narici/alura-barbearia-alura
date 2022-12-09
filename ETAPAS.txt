@@ -116,4 +116,18 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 58) Por fim, estilize o checkbox:
 
+59) Na página contato.html, adicione um alt para as logos da barbearia, ou seja, para as imagens logo.png e logo-branco.png:
+
+60) Nos input de nome e sobrenome, e-mail, telefone, e no textarea de mensagem, adicione o atributo required.
+
+61) Modifique os tipos dos input de e-mail e telefone para serem email e tel, respectivamente. Além disso, adicione um placeholder para eles:
+
+62) No input radio do WhatsApp, adicione o atributo checked.  Faça o mesmo no checkbox:
+
+63) Modifique as div das opções de contato e do seletor para passarem a ser um fieldset.
+
+64) Modifique os títulos das opções de contato e do seletor, que são parágrafos, para passarem a ser um legend.
+
+65) No arquivo style.css, na estilização do form p, modifique para form legend:
+
 
