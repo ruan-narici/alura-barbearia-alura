@@ -84,3 +84,10 @@
 
 43) No arquivo produtos.css, estilize o rodapé da página produtos.html e seus elementos:
 
+44) Renomeie o arquivo style.css para style-home.css.
+
+45) Renomeie o arquivo produtos.css para style.css.
+
+46) Nas páginas produtos.html e index.html, modifique a importação dos arquivos CSS que tiveram seus nomes modificados.
+
+47) Crie a página contato.html.
