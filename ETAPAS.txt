@@ -96,4 +96,24 @@
 
 49) No arquivo style.css, estilize o formulário:
 
+50) Na página contato.html, nos input de nome e sobrenome, e-mail e telefone, adicione a classe input-padrao.
+
+51) Após o label/input de telefone, adicione um textarea para o usuário poder digitar uma mensagem. Ele terá 70 colunas e 10 linhas:
+
+52) Abaixo do textarea de mensagem, crie os input do tipo radio, para a preferência de contato:
+
+53) Abaixo das opções de contato, crie o seletor e suas opções para o horário de atendimento:
+
+54) Após o seletor, crie o checkbox para caso o usuário queira receber as novidades por e-mail:
+No arquivo style.css, onde há a estilização do label do formulário:
+
+55) No arquivo style.css, onde há a estilização do label do formulário:
+Adicione esse estilo também para o parágrafo do formulário:
+
+56) Onde há a estilização do input do formulário:
+
+57) Modifique para estilizar a classe input-padrao:
+
+58) Por fim, estilize o checkbox:
+
 
