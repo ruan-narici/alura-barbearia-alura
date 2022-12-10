@@ -115,3 +115,35 @@ form label, form legend {
 .checkbox {
     margin: 20px 0;
 }
+
+#submit {
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+table {
+    margin: 20px 0 40px;
+}
+
+table th {
+    background: #555555;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+table td, table th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}

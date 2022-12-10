@@ -130,4 +130,16 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 65) No arquivo style.css, na estilização do form p, modifique para form legend:
 
+66) Na página contato.html, adicione uma classe para o input submit:
+
+67)  No arquivo style.css, estilize o botão:
+
+68) Estilize também quando o usuário passar o mouse por cima do botão:
+
+69) Na página contato.html, abaixo do formulário, adicione uma tabela com os dias e horários do funcionamento da barbearia:
+
+70) No arquivo style.css, estilize a tabela e suas tags:
+
+
+
 
