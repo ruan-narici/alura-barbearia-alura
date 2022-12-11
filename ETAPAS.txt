@@ -140,6 +140,24 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 70) No arquivo style.css, estilize a tabela e suas tags:
 
+71) Na página index.html, remova a importação do CSS style-home.css e importe os CSSs reset.css e style.css no seu lugar:
 
+72) Ainda na página index.html, remova o seu cabeçalho (tag <header> e o seu conteúdo) e utilize o mesmo cabeçalho da página produto.html:
+
+73) Adicione também um rodapé na página index.html, o mesmo da página produtos.html. Antes de fechar o body (tag </body>), acrescente:
+
+74) Modifique o atributo id da imagem banner.jpg para passar a ser class:
+
+75) Agora, substitua as duas divs com as classes principal e beneficios por duas sections:
+
+76) Modifique as classes titulo-centralizado para passar a ser titulo-principal:
+
+77) Abaixo do título Sobre a Barbearia Alura, adicione a imagem utensilios.jpg:
+
+78) Por fim, envolva as duas sections em uma tag main:
+
+79) No arquivo style.css, adicione os estilos da página inicial:
+
+80) 
 
 

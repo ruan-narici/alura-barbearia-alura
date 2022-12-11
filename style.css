@@ -135,7 +135,7 @@ form label, form legend {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px  40px;
 }
 
 table th {
@@ -146,4 +146,39 @@ table th {
 table td, table th {
     border: 1px solid #000000;
     padding: 8px 15px;
+}
+
+
+/* Style página inicial */
+.banner {
+    width: 100%;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.utensilios {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.img-beneficios {
+    width: 60%;
+}
+
+.titulo-principal {
+    font-size: 2em;
+    text-align: center;
+    margin: 0 0 1em 0;
+    clear: left;
 }
