@@ -168,6 +168,21 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 84) Por fim, ajuste os espaçamentos e os estilos do mapa e do vídeo:
 
+85) Na página index.html, envolva a lista de benefícios em uma div, adicione uma classe à ul e acrescente mais benefícios na lista. Além disso, coloque a imagem de benefícios na mesma linha que o fechamento da ul (classe </ul>) e altere a sua classe para imagem-beneficios:
+
+86) Envolva também o mapa em uma div:
+
+87) Em style.css, remova os estilos do main:
+
+88) Além disso, adicione os estilos dos benefícios:
+
+89) Altere a margin do video para 2em:
+
+90) Estilize a div do mapa e a section principal:
+
+91) Adicione um background ao mapa:
+
+92) E por fim, adicione uma estrela antes de todos os itens da lista de benefícios:
 
 
 
