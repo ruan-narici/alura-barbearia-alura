@@ -158,6 +158,16 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 79) No arquivo style.css, adicione os estilos da página inicial:
 
-80) 
+80) Na página index.html, como último elemento do head, importe o CSS da fonte Montserrat:
+
+81) Agora, entre a section principal e a section beneficios, crie a section mapa, incorporando o mapa com a localização da Barbearia Alura:
+
+82) Dentro da section beneficios, após a imagem beneficios.jpg, incorpore um vídeo de exemplo da Barbearia Alura:
+
+83) No arquivo style.css, na primeira linha, estilize todo o body para utilizar a fonte importada no primeiro passo:
+
+84) Por fim, ajuste os espaçamentos e os estilos do mapa e do vídeo:
+
+
 
 
