@@ -184,5 +184,10 @@ Adicione esse estilo também para o parágrafo do formulário:
 
 92) E por fim, adicione uma estrela antes de todos os itens da lista de benefícios:
 
+93) Na página index.html, dentro do head, adicione a tag meta viewport, logo abaixo da tag meta charset:
+
+94) Altere o tamanho do vídeo, para não ser mais fixo e sim ocupar toda a largura da tela, com width="100%":
+
+95) No arquivo style.css, adicione um estilo diferente para dispositivos de até 480 pixels de largura:
 
 

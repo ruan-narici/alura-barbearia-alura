@@ -209,8 +209,14 @@ table td, table th {
 
 .img-beneficios {
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
 }
 
+.img-beneficios:hover {
+    opacity: 0.3;
+}
 
 .titulo-principal {
     font-size: 2em;
@@ -237,4 +243,62 @@ table td, table th {
 .video {
     width: 560px;
     margin: 2em auto;
+}
+
+/* Style para mobile  */
+
+@media screen and (max-width: 480px) {
+    header h1 {
+        text-align: center;
+    }
+
+    .cx-header, 
+    .principal, 
+    .mapa, 
+    .mapa-conteudo, 
+    .conteudo-beneficios,
+    .video,
+    .produtos {
+        width: auto;
+    }
+
+    nav {
+        position: static;
+        text-align: center;
+    }
+
+    .beneficios,
+    .principal,
+    .mapa {
+        padding: 3em 1em;
+    }
+
+    .conteudo-beneficios ul {
+        font-size: 15px;
+    }
+
+    .produtos {
+        text-align: center;
+    }
+
+    .produtos li {
+        width: 80%;
+        margin: 0 0 10px 0;
+    }
+
+    #nomedousuario, 
+    #email,
+    #telefone,
+    .in-padrao {
+        width: 85%;
+        font-size: 15px;
+    }
+
+    select {
+        font-size: 14px;
+    }
+
+    #submit {
+        width: 60%;
+    }
 }
